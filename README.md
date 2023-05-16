@@ -1,4 +1,4 @@
-# ECE141a-WI21-Assignment1 
+# Custom String Class
 ## Old repo (private): https://github.com/UCSD-ECE141/ece141-wi21-assignment1-audreygao
 
 ## Let's build a custom string class
