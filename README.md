@@ -1,5 +1,5 @@
 # ECE141a-WI21-Assignment1 
-#### Due Jan 22, 2021 @ 11:30pm (PST)
+## Old repo (private): https://github.com/UCSD-ECE141/ece141-wi21-assignment1-audreygao
 
 ## Let's build a custom string class
 
